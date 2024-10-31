@@ -1,0 +1,12 @@
+## labpy03
+## LATIHAN1
+
+Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
+-- Algoritmanya
+import random memanggil file random.
+n = int(input("Masukan nilai N : ")) input variabel n, tipe data integer.
+for c in range(n) : looping for index c dengan jumlah perulangan sebanyak n.
+b = random.uniform(.0,.5) variabel a berisikan random angka dari 0.0 sampai 0.5.
+print ("Data ke : ",a,"==>",b) print data ke : a = index looping b = angka random sesuai syarat nomor 4.
+print("-----FINISH-----") print Selesai di luar looping.
+Run program latihan1.
