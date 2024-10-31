@@ -2,11 +2,62 @@
 ## LATIHAN1
 
 Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
+
 -- Algoritmanya
-import random memanggil file random.
-n = int(input("Masukan nilai N : ")) input variabel n, tipe data integer.
-for c in range(n) : looping for index c dengan jumlah perulangan sebanyak n.
-b = random.uniform(.0,.5) variabel a berisikan random angka dari 0.0 sampai 0.5.
-print ("Data ke : ",a,"==>",b) print data ke : a = index looping b = angka random sesuai syarat nomor 4.
-print("-----FINISH-----") print Selesai di luar looping.
-Run program latihan1.
+1. import random memanggil file random.
+2. n = int(input("Masukan nilai N : ")) input variabel n, tipe data integer.
+3. for c in range(n) : looping for index c dengan jumlah perulangan sebanyak n.
+4. b = random.uniform(.0,.5) variabel a berisikan random angka dari 0.0 sampai 0.5.
+5. print ("Data ke : ",a,"==>",b) print data ke : a = index looping b = angka random sesuai syarat nomor 4.
+6. print("-----FINISH-----") print Selesai di luar looping.
+7. Run program latihan1.
+
+- Flowchart
+flowchart latihan 1
+
+
+- Screenshot
+screenshot syntax & hasil program latihan1
+
+
+
+1. Ketikan Program print ("Bilangan Acak yang Lebih Kecil Dari 0.5")
+=>print ('Bilangan Acak yang Lebih Kecil Dari 0.5') Untuk Menampilkan atau Mencetak kalimat *Bilangan Acak yang Lebih Kecil Dari 0.5
+2. Ketikan Program import random
+=> import random memanggil file random.
+3. ketikan program n = int(input("Masukan nilai N : "))
+=> n = int(input("Masukan nilai N : ")) input variabel n, tipe data integer.
+4. Ketikan Program a=0
+5. ketikan program for c in range(n) :
+=> for c in range(n) : looping for index c dengan jumlah perulangan sebanyak n.
+6. ketikan program a+=1
+=> a+=1, setiap looping nilai akan bertambah 1
+7. ketikan program b = random.uniform(.0,.5
+= > b = random.uniform(.0,.5) variabel a berisikan random angka dari 0.0 sampai 0.5.
+8. ketikan program print ("Data ke : ",a,"==>",b)
+=> print ("Data ke : ",a,"==>",b) print data ke : a = index looping b = angka random sesuai syarat nomor 4.
+9. ketikan program print("-----FINISH-----")
+
+- Hasilnya
+
+
+
+##LATIHAN2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
