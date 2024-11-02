@@ -44,9 +44,53 @@ screenshot syntax & hasil program latihan1
 
 ##LATIHAN2
 
+Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha
+
+- Algoritma
+1. x=100000000 modal 100.000.000, variable x.
+2. summer=0 variable untuk menjumlah total laba.
+3. y=0 variable untuk masa bulan.
+4. lb = [int(0), int(0), int(a) * .1, int(a) * .1, int(a) * .5, int(a) * .5, int(a) * .5, int(a) * .2] variable untuk jumlah laba perbulan, dipisahkan dengan koma dan tipe data integer.
+5. for i in lb : looping for index i dengan mengambil data dari lb.
+6. sum=sum+i rumus untuk menghitung total laba perbulan.
+7. y+=1 masa bulan, tiap looping menambah 1.
+8. print('Laba Bulan Ke-', y ,'Sebesar :',y) print : y = ambil masa bulan, i = ambil dari data yang ada di dalam lb.
+9. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
+10. Run Program2.
+
+- Flowchart
+flowchart program2
 
 
 
+- Screenshot
+
+screenshot hasil & syntax program2
+
+
+
+1. Ketikan program
+=> x=100000000 modal 100.000.000, variable x.
+2. Ketikan program sum=0
+=> sum=0 kode sum disini untuk menentukan jumlah total laba
+3. ketikan program
+=> y=0 y= untuk variable masa bulan
+4. ketikan program lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x)* .5, int(x) * .2]
+=> lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x)* .5, int(x) * .2] Untuk Mendeklarasikan presentase laba tiap bulan dan di kali dengan x atau data inputan modal investasi yaitu 100000000
+5. ketikan program print(" Modal Awal Seorang Pengusaha :',x")
+=> print(" Modal Awal Seorang Pengusaha :',x") Menampilkan kalimat *Modal Awal : dan data yang berisi di x yaitu 100000000
+6. ketikan program for i in lb :
+=> for i in lb : looping for index i dengan mengambil data dari lb.
+7. ketikan program sum=sum+i
+sum=sum+i rumus untuk menghitung total laba perbulan.
+8. ketikan program y+1
+=> y+=1, masa bulan tiap looping menambah 1.
+9. print('Laba Bulan Ke-', y ,'Sebesar :',i)
+=> print('Laba Bulan Ke-', y ,'Sebesar :',i) print : y = ambil masa bulan, i = ambil dari data yang ada di dalam lb.
+10. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum)
+=> print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
+
+- Hasilnya
 
 
 
