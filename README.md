@@ -17,7 +17,7 @@ Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 ![](<latihan1.png>)
 
 ### Screenshot
-screenshot syntax & hasil program latihan1
+![](<code11.png>)
 
 
 
@@ -39,7 +39,7 @@ screenshot syntax & hasil program latihan1
 9. ketikan program print("-----FINISH-----")
 
 ### Hasilnya
-
+![](<hasil11.png>)
 
 
 ## LATIHAN2
@@ -59,12 +59,12 @@ Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha
 10. Run Program2.
 
 - Flowchart
-flowchart program2
+![](<flowchrt2.png>)
 
 
 
 ### Screenshot
-screenshot hasil & syntax program2
+![](<coke-2.png>)
 
 
 
@@ -90,7 +90,7 @@ sum=sum+i rumus untuk menghitung total laba perbulan.
 => print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
 
 ### Hasilnya
-
+![](<hasil-2.png>)
 
 ## LATIHAN3
 program sederhana mensimulasikan mesin ATM. 
@@ -114,12 +114,12 @@ Jika pilihan adalah 2 (Keluar):
 Akhiri program dengan menampilkan pesan "Terima kasih telah menggunakan ATM!"
 
 ### Flowchart
-![](<latihanbankpng>)
+![](<latihanbank.png>)
 
 
 
 ### Screenshot
-screenshot hasil & syntax program3
+![](<kodeatm.png>)
 
 
 1. ketikan program
@@ -156,6 +156,6 @@ break: Menghentikan loop.
 
 
 ### Hasilnya
-
+![](<Screenshot 2024-11-02 123146.png>)
 
 
