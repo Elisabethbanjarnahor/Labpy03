@@ -13,8 +13,7 @@ Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 7. Run program latihan1.
 
 - Flowchart
-flowchart latihan 1
-
+![](<latihan1.png>)
 
 - Screenshot
 screenshot syntax & hasil program latihan1
