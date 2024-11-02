@@ -3,7 +3,7 @@
 
 Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 
--- Algoritmanya
+### Algoritmanya
 1. import random memanggil file random.
 2. n = int(input("Masukan nilai N : ")) input variabel n, tipe data integer.
 3. for c in range(n) : looping for index c dengan jumlah perulangan sebanyak n.
@@ -12,11 +12,11 @@ Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 6. print("-----FINISH-----") print Selesai di luar looping.
 7. Run program latihan1.
 
-- Flowchart
+### Flowchart
   
 ![](<latihan1.png>)
 
-- Screenshot
+### Screenshot
 screenshot syntax & hasil program latihan1
 
 
@@ -38,15 +38,15 @@ screenshot syntax & hasil program latihan1
 => print ("Data ke : ",a,"==>",b) print data ke : a = index looping b = angka random sesuai syarat nomor 4.
 9. ketikan program print("-----FINISH-----")
 
-- Hasilnya
+### Hasilnya
 
 
 
-##LATIHAN2
+## LATIHAN2
 
 Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha
 
---Algoritma
+### Algoritma
 1. x=100000000 modal 100.000.000, variable x.
 2. summer=0 variable untuk menjumlah total laba.
 3. y=0 variable untuk masa bulan.
@@ -63,7 +63,7 @@ flowchart program2
 
 
 
-- Screenshot
+### Screenshot
 screenshot hasil & syntax program2
 
 
@@ -89,13 +89,13 @@ sum=sum+i rumus untuk menghitung total laba perbulan.
 10. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum)
 => print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
 
-- Hasilnya
+### Hasilnya
 
 
-##LATIHAN3
+## LATIHAN3
 program sederhana mensimulasikan mesin ATM. 
 
---Algoritmanya
+### Algoritmanya
 Tetapkan variabel saldo dengan nilai awal 1000000 (Rp 1.000.000).
 Buat variabel pilihan untuk menyimpan pilihan pengguna.
 Selama saldo lebih besar dari 0, ulangi langkah-langkah berikut:
@@ -113,12 +113,12 @@ Tampilkan pesan "Saldo tidak mencukupi."
 Jika pilihan adalah 2 (Keluar):
 Akhiri program dengan menampilkan pesan "Terima kasih telah menggunakan ATM!"
 
-- Flowchart
+### Flowchart
 flowchart program3
 
 
 
-- Screenshot
+### Screenshot
 screenshot hasil & syntax program3
 
 
@@ -155,7 +155,7 @@ break: Menghentikan loop.
 => else:: Jika pengguna memilih angka selain 1 atau 2, akan muncul pesan "Pilihan tidak valid."
 
 
--Hasilnya
+### Hasilnya
 
 
 
