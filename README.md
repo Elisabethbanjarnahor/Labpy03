@@ -114,7 +114,7 @@ Jika pilihan adalah 2 (Keluar):
 Akhiri program dengan menampilkan pesan "Terima kasih telah menggunakan ATM!"
 
 ### Flowchart
-flowchart program3
+![](<latihanbankpng>)
 
 
 
