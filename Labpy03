@@ -119,18 +119,43 @@ flowchart program3
 
 
 - Screenshot
-screenshot hasil & syntax program2
+screenshot hasil & syntax program3
 
 
+1. ketikan program
+=> saldo = 1000000: Membuat variabel saldo
+2. ketikan program riwayat_transaksi
+=> riwayat_transaksi = []: Membuat list kosong bernama riwayat_transaksi untuk menyimpan catatan setiap transaksi yang dilakukan.
+3. ketikan while True
+=> while True:: Membuat loop tak terbatas.
+4. tampilkan menu
+=> print(f"Saldo saat ini: Rp {saldo}"): Menampilkan saldo terkini pengguna.
+=> print("1. Tarik Uang"): Menampilkan opsi pertama, yaitu menarik uang.
+=> print("2. Keluar"): Menampilkan opsi kedua, yaitu keluar dari program.
+5. ketikan input pengguna
+=> pilihan = int(input("Pilih menu (1/2): ")): Meminta pengguna untuk memilih salah satu opsi (1 atau 2) dan menyimpan pilihan tersebut dalam variabel pilihan.
+6. masukkan logika prnarikan
+=> if pilihan == 1:: Jika pengguna memilih opsi 1 (Tarik Uang):
+=> jumlah_tarik = int(input("Masukkan jumlah penarikan: "))
+=> if jumlah_tarik <= saldo:: Memeriksa apakah jumlah yang ingin ditarik tidak melebihi saldo yang ada.
+7. ika saldo mencukupi:
+=> saldo -= jumlah_tarik: Mengurangi saldo dengan jumlah yang ditarik.
+8. iwayat_transaksi.append(f"Penarikan: Rp {jumlah_tarik}"): Menambahkan catatan transaksi ke dalam list riwayat_transaksi.
+=> print("Penarikan berhasil!"): Menampilkan pesan keberhasilan penarikan.
+9. Jika saldo tidak mencukupi:
+=> print("Saldo tidak mencukupi!"): Menampilkan pesan bahwa saldo tidak cukup.
+10. keluar dari program
+=> elif pilihan == 2:: Jika pengguna memilih opsi 2 (Keluar):
+print("Terima kasih telah menggunakan ATM!"): Menampilkan pesan terima kasih.
+print("Riwayat Transaksi:"): Menampilkan judul "Riwayat Transaksi".
+for transaksi in riwayat_transaksi:: Melakukan perulangan untuk setiap transaksi dalam list riwayat_transaksi.
+print(transaksi): Mencetak setiap transaksi yang telah dilakukan.
+break: Menghentikan loop. 
+11.pilihan tidak valid
+=> else:: Jika pengguna memilih angka selain 1 atau 2, akan muncul pesan "Pilihan tidak valid."
 
 
-
-
-
-
-
-
-
+-Hasilnya
 
 
 
