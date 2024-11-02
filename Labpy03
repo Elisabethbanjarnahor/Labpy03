@@ -46,7 +46,7 @@ screenshot syntax & hasil program latihan1
 
 Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha
 
-- Algoritma
+--Algoritma
 1. x=100000000 modal 100.000.000, variable x.
 2. summer=0 variable untuk menjumlah total laba.
 3. y=0 variable untuk masa bulan.
@@ -64,7 +64,6 @@ flowchart program2
 
 
 - Screenshot
-
 screenshot hasil & syntax program2
 
 
@@ -91,6 +90,36 @@ sum=sum+i rumus untuk menghitung total laba perbulan.
 => print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
 
 - Hasilnya
+
+
+##LATIHAN3
+program sederhana mensimulasikan mesin ATM. 
+
+--Algoritmanya
+Tetapkan variabel saldo dengan nilai awal 1000000 (Rp 1.000.000).
+Buat variabel pilihan untuk menyimpan pilihan pengguna.
+Selama saldo lebih besar dari 0, ulangi langkah-langkah berikut:
+Tampilkan menu pilihan:
+1. Tarik Uang
+2. Keluar
+Minta pengguna untuk memilih salah satu opsi.
+Jika pilihan adalah 1 (Tarik Uang):
+Minta pengguna memasukkan jumlah yang ingin ditarik.
+Jika jumlah penarikan lebih kecil dari atau sama dengan saldo:
+Kurangi saldo dengan jumlah yang ditarik.
+Tampilkan pesan "Penarikan berhasil!" dan saldo baru.
+Jika tidak:
+Tampilkan pesan "Saldo tidak mencukupi."
+Jika pilihan adalah 2 (Keluar):
+Akhiri program dengan menampilkan pesan "Terima kasih telah menggunakan ATM!"
+
+- Flowchart
+flowchart program3
+
+
+
+- Screenshot
+screenshot hasil & syntax program2
 
 
 
