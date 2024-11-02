@@ -59,7 +59,7 @@ Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha
 10. Run Program2.
 
 - Flowchart
-![](<flowchrt2.png>)
+![](<flowchrt2.jpg>)
 
 
 
